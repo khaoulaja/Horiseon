@@ -12,9 +12,7 @@
 
 ## Website
 
-* [The URL of the deployed application](https://khaoulaja.github.io/Horiseon/)
-
-* [The URL of the GitHub repository](https://github.com/khaoulaja/Horiseon)
+* [Horiseon](https://khaoulaja.github.io/Horiseon/)
 
 ## Contribution
 Made with ❤️ by Khaoula Jabour
